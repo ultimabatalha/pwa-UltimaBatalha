@@ -1,0 +1,39 @@
+{
+  "background_color": "#ffffff",
+  "description": "Seja Bem vindo(a)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Seja Bem vindo(a)",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Seja Bem vindo(a)",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/67d89396-5d4d-41c8-aebd-6979e2023208/1000098766/public",
+      "type": "image/jpeg",
+      "sizes": "768x768",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 768,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://ultimabatalha.super.site/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
